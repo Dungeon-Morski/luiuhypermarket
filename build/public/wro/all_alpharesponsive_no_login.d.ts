@@ -1,0 +1,21 @@
+declare function getKeyByValue(object: any, value: any): string | undefined;
+declare function getKeyByValue(object: any, value: any): string | undefined;
+declare function showOTPCountDown(needCountDownReStart: any): void;
+declare function showOTPCountDown(needCountDownReStart: any): void;
+declare function removeProfilePic(): void;
+declare function validatePhoneNumberLengthonProfilePage(mobileNumber: any): boolean;
+declare function customValidateForm(): boolean;
+declare function enableAndDisableSubmitBtn(): void;
+declare function validateLoginForm(e: any): boolean;
+declare function validateResetPwdForm(): any;
+declare function validatePhoneNumber(): boolean;
+declare function closeMulitpleAccountLoginPopup(): void;
+declare function removeGiftCard(event: any): void;
+declare var intervalId: any;
+declare var distance: any;
+declare var pwdUpdateData: any;
+declare var isPhoneNumberVerified: HTMLElement | null;
+declare var scanner: any;
+declare var cardDetails: any;
+declare var otpVerified: boolean;
+//# sourceMappingURL=all_alpharesponsive_no_login.d.ts.map
